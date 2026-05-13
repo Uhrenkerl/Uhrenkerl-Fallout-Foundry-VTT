@@ -1,0 +1,21 @@
+{
+	"name":"FO-custom",
+	"title": "Uhrenkerl's Custom Fallout RPG",
+	"description": "A system to play Uhrenkerl's Fallout RPG",
+	"author": "Uhrenkerl",
+	"version": 1.00,
+	"minimumCoreVersion": "0.6.4",
+	"compatibleCoreVersion": "5.3.3",
+"esmodules": [
+	"FO-custom.js"
+],
+"styles":[
+	"FO-custom.css"
+],
+"packs": [
+	
+],
+"languages": [
+	
+]
+}
