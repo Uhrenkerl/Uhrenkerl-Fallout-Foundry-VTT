@@ -1,5 +1,5 @@
-# custom_fallout
+# Uhrenkerl's Custom Fallout RPG
 
-"Foundry VTT system to run Uhrenkerl's Fallout RPG"
+Foundry VTT system to run Uhrenkerl's Fallout RPG
 
-"I made this :)"
+I made this :)
