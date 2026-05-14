@@ -26,6 +26,6 @@
   "languages": [],
 
   "url": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT",
-  "manifest": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/releases/download/Test/system.json",
+  "manifest": "https://raw.githubusercontent.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/refs/heads/main/system.json",
   "download": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/releases/download/Test/custom_fallout.zip"
 }
