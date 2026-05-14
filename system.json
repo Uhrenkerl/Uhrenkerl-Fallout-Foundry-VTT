@@ -11,12 +11,8 @@
 
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "13"
   },
-
-  "esmodules": [
-    "FO-custom.js"
-  ],
 
   "styles": [
     "FO-custom.css"
