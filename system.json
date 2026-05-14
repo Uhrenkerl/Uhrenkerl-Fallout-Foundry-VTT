@@ -8,7 +8,8 @@
   "authors": [
     {
       "id": "uhrenkerl",
-      "name": "Uhrenkerl"
+      "name": "Uhrenkerl",
+      "url": "https://github.com/Uhrenkerl"
     }
   ],
 
@@ -23,6 +24,7 @@
     "requires": []
   },
 
+  "scripts": [],
   "esmodules": [
     "FO-custom.js"
   ],
@@ -34,9 +36,15 @@
   "packs": [],
   "languages": [],
 
+  "socket": false,
+  "protected": false,
+
   "url": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT",
 
   "manifest": "https://raw.githubusercontent.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/main/system.json",
 
-  "download": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/releases/download/Test/custom_fallout.zip"
+  "download": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/releases/download/Test/custom_fallout.zip",
+
+  "license": "LICENSE.txt",
+  "readme": "README.md"
 }
