@@ -1,9 +1,10 @@
 {
-	"name":"FO-custom",
+	"short_name": "Uhrenkerl's FORPG"
+	"name":"Uhrenkerl's Custom Fallout RPG for Foundry VTT",
 	"title": "Uhrenkerl's Custom Fallout RPG",
 	"description": "A system to play Uhrenkerl's Fallout RPG",
 	"author": "Uhrenkerl",
-	"version": 1.00,
+	"version": 0.01,
 	"minimumCoreVersion": "0.6.4",
 	"compatibleCoreVersion": "5.3.3",
 "esmodules": [
@@ -17,5 +18,12 @@
 ],
 "languages": [
 	
+],
+[
+	"url": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT"
+],
+[
+	"manifest": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/releases/download/Test/system.json",
+	"download": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/releases/download/Test/custom_fallout.zip"
 ]
 }
