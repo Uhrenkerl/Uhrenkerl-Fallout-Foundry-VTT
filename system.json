@@ -2,17 +2,26 @@
   "id": "uhrenkerl-fallout-rpg",
   "title": "Uhrenkerl's Custom Fallout RPG",
   "description": "A system to play Uhrenkerl's Fallout RPG",
+
   "version": "0.0.1",
+
   "authors": [
     {
-      "name": "Uhrenkerl"
+      "name": "Uhrenkerl",
+      "discord": "",
+      "flags": {}
     }
   ],
 
   "compatibility": {
     "minimum": "11",
-    "verified": "13"
+    "verified": "11",
+    "maximum": "11"
   },
+
+  "esmodules": [
+    "FO-custom.js"
+  ],
 
   "styles": [
     "FO-custom.css"
@@ -21,7 +30,14 @@
   "packs": [],
   "languages": [],
 
+  "relationships": {
+    "systems": [],
+    "requires": []
+  },
+
   "url": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT",
-  "manifest": "https://raw.githubusercontent.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/refs/heads/main/system.json",
+
+  "manifest": "https://raw.githubusercontent.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/main/system.json",
+
   "download": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT/releases/download/Test/custom_fallout.zip"
 }
