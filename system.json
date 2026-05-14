@@ -7,16 +7,20 @@
 
   "authors": [
     {
-      "name": "Uhrenkerl",
-      "discord": "",
-      "flags": {}
+      "id": "uhrenkerl",
+      "name": "Uhrenkerl"
     }
   ],
 
   "compatibility": {
-    "minimum": "11",
-    "verified": "11",
-    "maximum": "11"
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+
+  "relationships": {
+    "systems": [],
+    "requires": []
   },
 
   "esmodules": [
@@ -29,11 +33,6 @@
 
   "packs": [],
   "languages": [],
-
-  "relationships": {
-    "systems": [],
-    "requires": []
-  },
 
   "url": "https://github.com/Uhrenkerl/Uhrenkerl-Fallout-Foundry-VTT",
 
